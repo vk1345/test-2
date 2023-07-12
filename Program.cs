@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿#include <iostream>
+
+int main() {
+    std::cout << "all is okey";
+
+
+    return 0
+        }
